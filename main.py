@@ -1,7 +1,7 @@
 import requests
 import telebot,time
 from telebot import types
-from i import Tele
+from an import Tele
 import os
 token = '6487569861:AAGt9xCKSwN_bCuLXEDVtJhjr-bAEd89HVc'
 bot=telebot.TeleBot(token,parse_mode="HTML")
